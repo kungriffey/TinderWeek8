@@ -87,9 +87,9 @@
 		2AB263C81B139B740043F06D /* TinderTesting */ = {
 			isa = PBXGroup;
 			children = (
-				2AB263CB1B139B740043F06D /* AppDelegate.swift */,
 				2AC664731B13A8CB00CC2BCB /* TinderTesting-Bridging-Header.h */,
 				2AC664741B13A8CB00CC2BCB /* BridgingFile.m */,
+				2AB263CB1B139B740043F06D /* AppDelegate.swift */,
 				2AB263CD1B139B740043F06D /* ViewController.swift */,
 				2AB263CF1B139B740043F06D /* Main.storyboard */,
 				2AB263D21B139B740043F06D /* Images.xcassets */,
